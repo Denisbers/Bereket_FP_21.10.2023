@@ -1,4 +1,4 @@
-let name = prompt('What\'s your name?')
+let name = prompt('Please enter your name?')
 
 
 
